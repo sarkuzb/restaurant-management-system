@@ -24,5 +24,3 @@ A web-based **Restaurant Management System** built using **PHP**, **HTML**, and 
 
 ---
 
-## 📁 Project Structure
-
